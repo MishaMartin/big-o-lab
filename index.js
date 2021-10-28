@@ -120,7 +120,7 @@ function printFirstTwoNames(array) {
 }
 
 // Q: What is the time complexity of the function? Could we write this function differently to accomplish the goal of the function in a faster time complexity?
-// ANSWER: Linear O(n) The only way to rewrite to faster would be to identify only one path.
+// ANSWER: Constant O(1) The only way to rewrite it faster would be to identify only one path.
 
 
 // Advanced Challenges
